@@ -4,9 +4,9 @@
 <br />
 <br />
 ## My values
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
+😎 최선을 다 해 재밌게 합니다.<br />
+👌 시간을 준수합니다.<br />
+🦻 쉽게 이야기합니다.<br />
 <br />
 <br />
 <br />
@@ -21,8 +21,7 @@
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-Boot?style=for-the-badge&logo=springboot&logoColor=green">
-"
+  <img src="https://img.shields.io/badge/Spring-boot?style=for-the-badge&logo=springboot&logoColor=lightgreen">
 </div>
 <br />
 <br />
